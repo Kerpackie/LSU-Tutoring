@@ -4,7 +4,6 @@
 
 #include "Person.h"
 
-#include "Person.h"
 #include <iostream>
 
 Person::Person(std::string n, int a) : name(n), age(a) {}
