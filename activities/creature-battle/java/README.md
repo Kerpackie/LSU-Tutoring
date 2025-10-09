@@ -75,3 +75,6 @@ Create a class `Main` with a `main` method.
       * Instantiate a `Goblin` object.
 2.  **Start the battle:**
       * Call the static `fight` method from your `BattleArena` class, passing in the two creatures you just created.
+  
+  <img width="575" height="583" alt="Screenshot 2025-10-09 at 21 40 59" src="https://github.com/user-attachments/assets/a4bdc4af-2378-4f75-b65d-2b9c8573e3fb" />
+      
