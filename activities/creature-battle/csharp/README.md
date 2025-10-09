@@ -73,3 +73,5 @@ In your `Program.cs` file, use the default `Main` method.
     * Instantiate a `Goblin` object.
 2.  **Start the battle:**
     * Call the static `Fight` method from your `BattleArena` class, passing in the two creatures you just created.
+  
+      <img width="695" height="658" alt="Screenshot 2025-10-09 at 21 53 18" src="https://github.com/user-attachments/assets/53770f98-75bb-41e8-a580-be4ae7a31ee9" />
